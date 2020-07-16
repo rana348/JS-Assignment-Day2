@@ -1,0 +1,26 @@
+Assignment question for day 2:
+Q.1 Write a Js code which takes input from the user and logs it in the console ?
+
+
+Q.2 Explain with examples the remaining methods for string and array ?
+-> CharAt() returns the character at the specified index. charCodeAt() returns a number indicating the unicode value of the character
+at the gives index. concat() combines the text of two string and returns a new string.indexOf() returns the index within the calling
+String object of the first occurrence of the specified value,or -1 if not found. lastIndexOf() Returns the index within the calling String
+object of the last occurrence of the specified value,or -1 if not found.localeCompare() returns a number indicating whether a reference
+string comes before or after or is the same as the given string in sort order.match() used to match a regular expression against a string
+replace() used to find a match between a regular expression and a string,and to replace the matched substring with a new subString.
+search() Executes the search for a match between a regular expression and a specified string.slice()Extracts a section of a string and returns
+a new string.split() splits a string object into an array of string by separating the string into substrings. substr() returns the 
+characters in a string beginning at the specified location through the specified location through the specified number of characters
+substring() returns the characters in a string between two indexes into the string.
+Array Methodes:1.concat():it used to cancat two array.
+2.find():it is used to find an element in an array.
+3.filter():creates a new array with every element ion an array that passes a test.
+4.isArray():Checks whether an object is an array.
+5.Pop():Delete the array element.
+6.push():insert the array element.
+7.sort():sort Array list.
+8.reverse():to reverse the array.
+
+
+Q.3 Ask the user if he is 21+and log the value"can drink","cannot drink" ?
